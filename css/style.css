@@ -1,0 +1,60 @@
+/* .container  {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background: blueviolet;
+    position: absolute;
+    border: 1px solid #ccc;
+}
+
+
+.box {
+    width: 25%;
+}
+.box img {
+    width: 100%;
+}
+
+.stexaGrvelu {
+    display: none;
+}
+.opshag {
+    display: none;
+}
+.error_active {
+    display: block;
+} */
+
+/* .sub_menu {
+    height: 0;
+    overflow: hidden;
+    transition: all .4s linear;
+}
+
+.clicked{
+    height: 100px;
+}
+
+.acc_item {
+    border: 2px solid #000;
+    width: 40%;
+} */
+
+
+/* scrollintoview */
+/* body {
+    margin: 0;
+    padding: 0;
+}
+main {
+    height: 100vh;
+    overflow: hidden;
+}
+.box {
+    height: 100vh;
+    background: black;
+}
+.box2 {
+    height: 100vh;
+    background: red;
+} */
